@@ -1,2 +1,2 @@
 # Final-Project
-Evaluate Deep Learning modules for phishing detection
+This project builds and evaluates three deep learning architectures for detecting phishing emails
